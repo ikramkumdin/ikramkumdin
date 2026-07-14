@@ -1,23 +1,83 @@
-<h1 align="center">Hi 👋, I'm Ekram Kumdin</h1>
-<h3 align="center">A passionate cloud and Front-End Developer from Ethiopia</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/muslim-girl-using-laptop-cartoon-character-sticker_1308-78723.jpg?w=2000">
+<h1 align="center">Ekram Kumdin</h1>
+<p align="center"><b>Cloud / DevOps Engineer</b> · AWS · Front-End Developer · Addis Ababa, Ethiopia 🇪🇹</p>
 
-- 🌱 I’m currently learning **React-native,Jenkins,Ansible,Chef and Puppet**
+```
++==+++==+=..-****+++++===+++++===-   ekram@github
+##*++++++-    :-*####**+++=++++**+   ----------------------------------------------
+####*+++=    ..  .=****##*=-+=+#*+   OS        macOS 16 · iOS · Kali Linux
+*#####*= .=*####*=..+*******+++#*+   Uptime    28 years, always shipping
++++##*+ :#%%%%%%%%*:.=*++++***+*++   Host      10 Academy
+++++*=. *###%%##*+=-  =+++=-*++**+   Role      DevOps & Cloud Engineer
++++++: -:  :+##+-..::  -++=.+=++++   Location  Addis Ababa, Ethiopia
+*+=++  :--. =#%*=.:::   :==.===*++   Shell     zsh + tmux + oh-my-zsh
+==++=  ..  :*@%%#+-:::-. -=.===+++   Editor    Neovim, VS Code
+++++= =%#*##%@%%##%%%%%#: -.-==+==
+*++++.*%#*=+++++++=+*##%* ..=-=+++   Cloud     AWS, Azure
+****+--=-:-+:..:=++=-=+**  .=:-*++   IaC       Terraform, Kubernetes, Docker
++***++:.--. :=====:-++***. :-:=+++   CI/CD     GitHub Actions, Azure DevOps
++++++++.:=+=----+**#****+ ..::=+++   Frontend  React, TypeScript, Redux
++++++==:..+##***#%%#**+-   .:-=+++   Backend   Node.js, Python, PostgreSQL
++++++==-...=+++++++=-.    ..:-++++   Langs     Python, JavaScript, C++
++++++++=:             .::--::=====   Certs     AWS SA-Assoc · Cloud Practitioner · CCNA
+**+***#+-:.           ..::--++++++
+##%@@@#=-:...     ....:---=#%*+**+   ----------------------------------------------
+%%%@%*:--::.    ...:--====++**+***   Email     bintkumdin@gmail.com
+@@@@*==:-=-:::::--====-===++***+==   GitHub    @ikramkumdin
+@@@@#===--+++===-----==++**++++=+*   Open to   DevOps · SRE · Cloud roles
+@@@@*=============+++**+++=-+#%@@@
+@@@#---==+++++++++++++=-:..*@@@@@@
+```
 
-- 💬 Ask me about **react,redux,typescript**
+> `$ whoami` — I automate the boring stuff so teams ship faster. Multi-cloud infrastructure
+> manager and full-stack developer working across Medical AI, SaaS automation, and enterprise
+> web. I turn messy, manual infrastructure into one-click, self-healing systems — and make the
+> UI on top genuinely pleasant to use.
 
-- 📫 How to reach me **bintkumdin@gmail.com**
+## 🧰 Tech Stack
 
-- ⚡ Fun fact **I cook delicious food when i am stressed**
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ekramkumdin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ekramkumdin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ekram-kumdin-a3a9391b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekram-kumdin-a3a9391b8" height="30" width="40" /></a>
-<a href="https://instagram.com/ekramkumdin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ekramkumdin" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bintkumdin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bintkumdin" height="30" width="40" /></a>
-</p>
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Backend & Data**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+## 🚀 Featured Projects
+
+- **tenx SaaS Management System** — infrastructure platform for 10 Academy's services; Terraform + Kubernetes provisioning with a React dashboard for one-click cohort launches.
+- **Medical AI Training Platform** *(Grailabs)* — Azure infra + React interface for physicians to train medical AI models, with strict security & data-privacy controls.
+- **[AddisSoftware-test-project](https://github.com/ikramkumdin/AddisSoftware-test-project)** — CRUD API to register, list, update and delete employees.
+- **[react-todos](https://github.com/ikramkumdin/react-todos)** · **[OBSA](https://github.com/ikramkumdin/OBSA)** — React app & an online bidding system for ASTU.
+
+## 📜 Certifications
+
+- 🏅 AWS Certified Solutions Architect – Associate
+- 🏅 AWS Certified Cloud Practitioner
+- 🎓 Cloud Developer Nanodegree – Udacity / ALX
+- 🌐 CCNA – Cisco Certified Network Associate
+
+## 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekram-kumdin/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bintkumdin@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ekramkumdin)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/bintkumdin)
+
+<p align="center"><i>Currently keeping infrastructure boring (in the best way) at 10 Academy.</i></p>
