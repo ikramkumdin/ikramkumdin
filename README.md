@@ -1,32 +1,9 @@
 <h1 align="center">Ekram Kumdin</h1>
 <p align="center"><b>Cloud / DevOps Engineer</b> · AWS · Front-End Developer · Addis Ababa, Ethiopia 🇪🇹</p>
 
-```
-+==+++==+=..-****+++++===+++++===-   ekram@github
-##*++++++-    :-*####**+++=++++**+   ----------------------------------------------
-####*+++=    ..  .=****##*=-+=+#*+   OS        macOS 16 · iOS · Kali Linux
-*#####*= .=*####*=..+*******+++#*+   Uptime    28 years, always shipping
-+++##*+ :#%%%%%%%%*:.=*++++***+*++   Host      10 Academy
-++++*=. *###%%##*+=-  =+++=-*++**+   Role      DevOps & Cloud Engineer
-+++++: -:  :+##+-..::  -++=.+=++++   Location  Addis Ababa, Ethiopia
-*+=++  :--. =#%*=.:::   :==.===*++   Shell     zsh + tmux + oh-my-zsh
-==++=  ..  :*@%%#+-:::-. -=.===+++   Editor    Neovim, VS Code
-++++= =%#*##%@%%##%%%%%#: -.-==+==
-*++++.*%#*=+++++++=+*##%* ..=-=+++   Cloud     AWS, Azure
-****+--=-:-+:..:=++=-=+**  .=:-*++   IaC       Terraform, Kubernetes, Docker
-+***++:.--. :=====:-++***. :-:=+++   CI/CD     GitHub Actions, Azure DevOps
-+++++++.:=+=----+**#****+ ..::=+++   Frontend  React, TypeScript, Redux
-+++++==:..+##***#%%#**+-   .:-=+++   Backend   Node.js, Python, PostgreSQL
-+++++==-...=+++++++=-.    ..:-++++   Langs     Python, JavaScript, C++
-+++++++=:             .::--::=====   Certs     AWS SA-Assoc · Cloud Practitioner · CCNA
-**+***#+-:.           ..::--++++++
-##%@@@#=-:...     ....:---=#%*+**+   ----------------------------------------------
-%%%@%*:--::.    ...:--====++**+***   Email     bintkumdin@gmail.com
-@@@@*==:-=-:::::--====-===++***+==   GitHub    @ikramkumdin
-@@@@#===--+++===-----==++**++++=+*   Open to   DevOps · SRE · Cloud roles
-@@@@*=============+++**+++=-+#%@@@
-@@@#---==+++++++++++++=-:..*@@@@@@
-```
+<p align="center">
+  <img src="./neofetch.svg" alt="ekram@github — neofetch profile" width="820" />
+</p>
 
 > `$ whoami` — I automate the boring stuff so teams ship faster. Multi-cloud infrastructure
 > manager and full-stack developer working across Medical AI, SaaS automation, and enterprise
